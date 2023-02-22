@@ -1,0 +1,64 @@
+.event-header{
+    display: flex;
+    background-color: rgb(53, 75, 194);
+    margin: 15px 5px;
+    height: 7vh;
+    align-items: center;
+    border-radius: 3px;
+}
+
+.function{
+    display: flex;
+    gap: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    
+
+}
+.title{
+    
+    color: white;
+    margin-left: 10px;
+    font-size: 16px;
+   
+}
+.search-div{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.table-event {
+    margin-top: 20px;
+}
+
+.title-add{
+    height: 40px;
+    background-color: rgb(53, 75, 194);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    color: aliceblue;
+}
+.input-add{
+    display: flex; 
+    text-align: center; 
+    gap: 10px;
+}
+.input-system{
+    display: flex;
+    gap: 10px;
+}
+.input-type{
+    margin-top: 18px;
+    height: 20px;
+    width: 300px;
+}
+.sys{
+    margin-top: 15px;
+    margin-left: 7px;
+}
